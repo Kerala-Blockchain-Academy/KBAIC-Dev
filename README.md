@@ -22,11 +22,14 @@ sudo apt install npm
 via pre built installer https://nodejs.org/en/download
 
 ## 2. Git
+ubuntu
 ```
 sudo apt install git-all
 ```
 https://git-scm.com/downloads
-
+```
+git version
+```
 
 ## 3. Ganache
 
