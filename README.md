@@ -83,7 +83,7 @@ download geth
 extract and change into the folder
 
 ```bash
-  cd geth all tools
+  cd geth 
 ```
 Give executable permission
 ```
