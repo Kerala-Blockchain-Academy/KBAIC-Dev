@@ -61,30 +61,7 @@ truffle version
 
 ```
 
-Create a directory
-```bash
-  mkdir setup
-```
-```bash
-  cd setup
-```
 
-Initialise 
-
-```bash
-  truffle init
-```
-
-compile
-
-```bash
-  truffle compile
-```
-deploy
-
-```bash
-  truffle migrate --reset
-```
 
 ## 6 . Geth
 we will set up a private network using Geth, an execution client, in proof of work mode.
