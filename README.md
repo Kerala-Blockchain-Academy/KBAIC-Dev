@@ -34,7 +34,9 @@ git version
 https://metamask.io/
 
 ## 4. Ganache
-
+```
+$ npm install ganache --global
+```
 install the UI version - its awesome
 
 https://trufflesuite.com/ganache/
