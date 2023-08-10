@@ -30,14 +30,16 @@ https://git-scm.com/downloads
 ```
 git version
 ```
+## 3 metamask
+https://metamask.io/
 
-## 3. Ganache
+## 4. Ganache
 
 install the UI version - its awesome
 
 https://trufflesuite.com/ganache/
 
-## 4 .Truffle
+## 5 .Truffle
 
 Install globally
 
@@ -76,7 +78,7 @@ deploy
   truffle migrate --reset
 ```
 
-## 5 . Geth
+## 6 . Geth
 we will set up a private network using Geth, an execution client, in proof of work mode.
 
 https://geth.ethereum.org/downloads
@@ -101,3 +103,5 @@ check version
 ```bash
  geth version
 ```
+## Infura
+https://www.infura.io/
