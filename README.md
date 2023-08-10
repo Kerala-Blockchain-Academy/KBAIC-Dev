@@ -37,7 +37,7 @@ https://metamask.io/
 ```
 $ npm install ganache --global
 ```
-Once installed globally, you can start ganache right from your comm
+Once installed globally, you can start ganache right from your terminal
 ```
 ganache
 ```
