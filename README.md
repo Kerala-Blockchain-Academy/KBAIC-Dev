@@ -45,6 +45,8 @@ install the UI version - its awesome
 
 https://trufflesuite.com/ganache/
 
+windows users
+https://lazyadmin.nl/powershell/running-scripts-is-disabled-on-this-system/
 ## 5 .Truffle
 
 Install globally
