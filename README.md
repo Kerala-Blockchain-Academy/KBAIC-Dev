@@ -61,9 +61,17 @@ truffle version
 
 ```
 
+## 6. Foundry
+```bash
+curl -L https://foundry.paradigm.xyz | bash
+```
+foundryup by itself will install the latest (nightly) precompiled binaries: forge, cast, anvil, and chisel
 
+```bash
+foundryup
+```
 
-## 6 . Geth
+## 7 . Geth
 we will set up a private network using Geth, an execution client, in proof of work mode.
 
 https://geth.ethereum.org/downloads
@@ -90,3 +98,6 @@ check version
 ```
 ## Infura
 https://www.infura.io/
+
+## Alchemy
+https://www.alchemy.com/
